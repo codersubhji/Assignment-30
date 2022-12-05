@@ -1,0 +1,36 @@
+.main{
+    width: 150vh;
+    height: 50vh;
+    margin-left: 20vh;
+    margin-top: 5vh;
+    text-align: center;
+    
+
+   
+}
+*{
+    background-color: aqua;
+}
+p{
+    margin-top: 5vh;
+    font-size: 20px;
+    font-weight: 600;
+    color: brown;
+    
+}
+button{
+    margin-top: 5vh;
+    font-size: 30px;
+    padding: 5px;
+    font-weight: 600;
+    background-color: aquamarine;
+    border-radius: 2px;
+    box-shadow: 3px 3px 10px black;
+    border: 2px solid black;
+    text-shadow: 3px 3px 10px black;
+    
+}
+button:hover{
+    background-color: aliceblue;
+    color: blue;
+}

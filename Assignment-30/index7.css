@@ -1,0 +1,16 @@
+*{
+    text-align: center;
+}
+
+p{
+    font-size: 5vh;
+    font-weight: 800;
+    margin-top: 10vh;
+    color: crimson;
+}
+a{
+    margin-top: 2vh;
+    font-size: 3.5vh;
+    font-weight: 500;
+
+}

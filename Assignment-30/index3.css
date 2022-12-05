@@ -1,0 +1,22 @@
+*{
+    text-align: center;
+    background-color: aqua;
+}
+
+audio{
+
+    width: 400px;
+    height: 70px;
+    margin-top: 5vh;
+    padding: 0vh 1vh 2vh 1vh;
+    text-align: center;
+    background-color: red;
+    color: blue;
+    border-radius: 3%;
+    border: 5px solid rgb(13, 41, 78);   
+    box-shadow: 5px 3px 15px black;
+}
+H1{
+    font-size: 900;
+    margin-top: 20vh;
+}
